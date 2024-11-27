@@ -103,7 +103,7 @@ const siteConfig: SiteConfig = {
         Socials\
         [Instagram](https://instagram.com/xjavontax/) | [Bluesky](https://bsky.app/profile/xjavontax.com) | [Letterboxd](https://letterboxd.com/xjavontax/) | [LinkedIn](www.linkedin.com/in/javontathomas)",
         image: {
-            src: '/hero.jpeg',
+            src: '/homeheader.jpeg',
             alt: 'A photo of me. Doing something.'
         },
         actions: [
