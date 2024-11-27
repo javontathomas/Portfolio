@@ -94,7 +94,14 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi. This is where I put my stuff.',
-        text: "I'm **Javonta Thomas**, an advertising Account Director. Since 2018, I've been working in marketing and communications building brand campaigns, introducing new brands to the world, and leading teams of people to make great work with the goal of cutting through all the noise consumers are faced with every day. Some examples of work I've done can be found here, but if you want to know a bit more about me and what I've done, drop me a line! When I'm not working on bespoke marketing comms, I can usually be found playing a video game, seated at a theater catching a movie (follow me on Letterboxd!), or finding the diviest dive bar in whatever city I'm located in at the time.",
+        text: "I'm **Javonta Thomas**, an advertising Account Director.\
+        \
+        Since 2018, I've been working in marketing and communications building brand campaigns, introducing new brands to the world, and leading teams of people to make great work with the goal of cutting through all the noise consumers are faced with every day. Some examples of work I've done can be found here, but if you want to know a bit more about me and what I've done, drop me a line!\
+        \
+        When I'm not working on bespoke marketing comms, I can usually be found playing a video game, seated at a theater catching a movie (follow me on Letterboxd!), or finding the diviest dive bar in whatever city I'm located in at the time.\
+        \
+        Socials\
+        [Instagram](https://instagram.com/xjavontax/) | [Bluesky](https://bsky.app/profile/xjavontax.com) | [Letterboxd](https://letterboxd.com/xjavontax/) | [LinkedIn](www.linkedin.com/in/javontathomas)",
         image: {
             src: '/hero.jpeg',
             alt: 'A photo of me. Doing something.'
@@ -106,12 +113,6 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        formUrl: '#'
-    },
-    postsPerPage: 8,
     projectsPerPage: 8
 };
 
