@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Javonta',
+    title: "Javonta'",
     subtitle: "Advertising Account Director.",
     description: "Javonta's landing page.",
     image: {
