@@ -10,9 +10,7 @@ seo:
 
 ![Alt text for image](/about.jpeg)
 
-**Note!:** This page is a WIP.
-
-## Javonta Thomas - Advertising Account Director based in Chicago, IL
+## Javonta Thomas - Advertising Account Director in Chicago, IL
 
 **Hey.** I'm Javonta Thomas, an advertising Account Director living in the city of Chicago, Illinois. I have a passion for cooking up work that entertains and inspires, speaking directly to what audiences care about and delivering work that works for brands.
 
