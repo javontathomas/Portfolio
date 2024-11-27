@@ -18,40 +18,40 @@ seo:
 
 ## Experience
 
-Superdigital
-Account Director
-August 2024 - Present
+**Superdigital**\
+Account Director\
+_August 2024 - Present_\
 Brands: Xbox
 
-FCB Chicago
-Account Director
-July 2023 - May 2024
+**FCB Chicago**\
+Account Director\
+_July 2023 - May 2024_\
 Brands: Danone (OIKOS, Too Good, International Delight)
 
-Goodby, Silverstein & Partners
-Account Manager
-May 2022 - July 2023
+**Goodby, Silverstein & Partners**\
+Account Manager\
+_May 2022 - July 2023_\
 Brands: Blackstone (Portfolio brands), Autodesk, CCGF
 
-FCB Chicago
-Account Supervisor
-October 2021 - May 2022
+**FCB Chicago**\
+Account Supervisor\
+_October 2021 - May 2022_\
 Brands: GE Appliances, Walmart, Stonefire
 
-FCB Chicago
-Account Executive
-October 2020 - October 2021
+**FCB Chicago**\
+Account Executive\
+_October 2020 - October 2021_\
 Brands: GE Appliances, Stonefire
 
-FCB Chicago
-Assistant Account Executive
-October 2018 - October 2020
+**FCB Chicago**\
+Assistant Account Executive\
+_October 2018 - October 2020_\
 Brands: GE Appliances, Michelob ULTRA, Stonefire
 
 ## Education
 
-Columbia College Chicago
-Bachelor of Arts (BA), Advertising
-2015 - 2018
+**Columbia College Chicago**\
+Bachelor of Arts (BA), Advertising\
+_2015 - 2018_
 
 I went to an art school because I wanted to be a copywriter. Quickly learned that I'm better off reading copy than writing it.
