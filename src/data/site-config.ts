@@ -32,8 +32,6 @@ export type SiteConfig = {
     footerNavLinks?: Link[];
     socialLinks?: Link[];
     hero?: Hero;
-    subscribe?: Subscribe;
-    postsPerPage?: number;
     projectsPerPage?: number;
 };
 
@@ -102,7 +100,7 @@ const siteConfig: SiteConfig = {
             }
         ]
     },
-    projectsPerPage: 8
+    projectsPerPage: 3
 };
 
 export default siteConfig;
